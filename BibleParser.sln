@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BibleParser", "BibleParser\BibleParser.vbproj", "{CF1CD60A-E954-4E27-BDB0-9AA23986C318}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BibleParserTest", "BibleParserTest\BibleParserTest.vbproj", "{6997C2C8-DB1B-486C-9B32-DB6CADAD621E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1CD60A-E954-4E27-BDB0-9AA23986C318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1CD60A-E954-4E27-BDB0-9AA23986C318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1CD60A-E954-4E27-BDB0-9AA23986C318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1CD60A-E954-4E27-BDB0-9AA23986C318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6997C2C8-DB1B-486C-9B32-DB6CADAD621E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6997C2C8-DB1B-486C-9B32-DB6CADAD621E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6997C2C8-DB1B-486C-9B32-DB6CADAD621E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6997C2C8-DB1B-486C-9B32-DB6CADAD621E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
